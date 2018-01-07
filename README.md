@@ -1,3 +1,7 @@
-# So. Go. bit
+## So. Go. bit
+
 Original Project
-By tteeee* TRUD TERPENIE!
+_
+Coderator
+_
+#By tteeee* TRUD TERPENIE!

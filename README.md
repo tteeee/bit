@@ -1,9 +1,10 @@
 ## So. Go. bit
 
 Original Project
-<code type java>
 
+<code type java>
 Coderator 
 </br>
 </code>
-#By tteeee* TRUD TERPENIE!
+
+# By tteeee* TRUD TERPENIE!

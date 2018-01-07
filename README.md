@@ -1,1 +1,3 @@
-# So.Bit.Co.MiSrv
+# So,. Go. org
+Original Project
+By tteeee* TRUD TERPENIE!

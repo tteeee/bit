@@ -3,8 +3,7 @@
 Original Project
 
 <code type java>
-Coderator 
-
+Go Server?
 </code>
 
-### By tteeee* TRUD TERPENIE!
+By tteeee* TRUD TERPENIE!

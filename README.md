@@ -1,7 +1,6 @@
 ## So. Go. bit
 
 Original Project
-_
-Coderator
-__
+<code>
+Coderator </code>
 #By tteeee* TRUD TERPENIE!
